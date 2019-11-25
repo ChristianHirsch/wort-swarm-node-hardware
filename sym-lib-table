@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Sensor_Gas_)(type Legacy)(uri /home/chirsch/workspace/air-swarm-node-hardware/Sensor_Gas_.lib)(options "")(descr ""))
+  (lib (name wort-swarm-node-hardware-rescue)(type Legacy)(uri ${KIPRJMOD}/wort-swarm-node-hardware-rescue.lib)(options "")(descr ""))
+)
